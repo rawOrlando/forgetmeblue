@@ -16,16 +16,16 @@ params:
         enabled: true
         #title:  # optional default will be site title
         subtitle: "Where I get to write."
-        imageUrl: "/images/Main_Flowers.jpeg" # optional
+        imageUrl: "/forgetmeblue/images/Main_Flowers.jpeg" # optional
         imageWidth: 150 # custom size
         imageHeight: 150 # custom size
         buttons:
             - name: Archive
-              url: "/archive"
+              url: "/forgetmeblue/archive"
             - name: Posts
-              url: "/post"
+              url: "/forgetmeblue/post"
             - name: Stories
-              url: "/stories"
+              url: "/forgetmeblue/stories"
 
   # socialIcons: # optional
   #     - name: "<platform>"
