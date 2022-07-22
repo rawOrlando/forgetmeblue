@@ -1,7 +1,8 @@
-baseURL: 'http://example.org/'
+baseURL: 'http://raworlando.github.io/forgetmeblue/'
 languageCode: en-us
 title: ForgetMeBlue
 theme: PaperMod
+publishDir: docs
 
 params:
   defaultTheme: auto # light dark
@@ -16,7 +17,6 @@ params:
         #title:  # optional default will be site title
         subtitle: "Where I get to write."
         imageUrl: "/images/Main_Flowers.jpeg" # optional
-        imageTitle: "test" # optional
         imageWidth: 150 # custom size
         imageHeight: 150 # custom size
         buttons:
