@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://raworlando.github.io/forgetmeblue/stories/dougs_big_night/</loc>
+    <lastmod>2021-09-28T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://raworlando.github.io/forgetmeblue/</loc>
+    <lastmod>2021-09-28T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://raworlando.github.io/forgetmeblue/stories/</loc>
+    <lastmod>2021-09-28T02:13:50+00:00</lastmod>
+  </url><url>
     <loc>https://raworlando.github.io/forgetmeblue/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
     <loc>https://raworlando.github.io/forgetmeblue/page/contact/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://raworlando.github.io/forgetmeblue/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
     <loc>https://raworlando.github.io/forgetmeblue/page/</loc>
@@ -59,7 +65,7 @@
     <loc>https://raworlando.github.io/forgetmeblue/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raworlando.github.io/forgetmeblue/archives/</loc>
+    <loc>https://raworlando.github.io/forgetmeblue/forgetmeblue/archives/</loc>
   </url><url>
     <loc>https://raworlando.github.io/forgetmeblue/search/</loc>
   </url><url>
