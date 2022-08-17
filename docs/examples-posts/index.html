@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>themes | ForgetMeBlue</title>
+<title>Examples posts | ForgetMeBlue</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="Examples posts - ForgetMeBlue">
 <meta name="author" content="">
-<link rel="canonical" href="https://raworlando.github.io/forgetmeblue/tags/themes/">
+<link rel="canonical" href="https://raworlando.github.io/forgetmeblue/examples-posts/">
 <link crossorigin="anonymous" href="/forgetmeblue/assets/css/stylesheet.8b523f1730c922e314350296d83fd666efa16519ca136320a93df674d00b6325.css" integrity="sha256-i1I/FzDJIuMUNQKW2D/WZu&#43;hZRnKE2MgqT32dNALYyU=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://raworlando.github.io/forgetmeblue/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://raworlando.github.io/forgetmeblue/favicon-16x16.png">
@@ -18,7 +18,7 @@
 <link rel="mask-icon" href="https://raworlando.github.io/forgetmeblue/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://raworlando.github.io/forgetmeblue/tags/themes/index.xml">
+<link rel="alternate" type="application/rss+xml" href="https://raworlando.github.io/forgetmeblue/examples-posts/index.xml">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,15 +55,30 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="themes" />
+</noscript><meta property="og:title" content="Examples posts" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://raworlando.github.io/forgetmeblue/tags/themes/" />
+<meta property="og:url" content="https://raworlando.github.io/forgetmeblue/examples-posts/" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="themes"/>
+<meta name="twitter:title" content="Examples posts"/>
 <meta name="twitter:description" content=""/>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Examples posts",
+      "item": "https://raworlando.github.io/forgetmeblue/examples-posts/"
+    }
+  ]
+}
+</script>
 </head>
 
 <body class="list" id="top">
@@ -88,11 +103,24 @@
 <main class="main"> 
 <header class="page-header">
   <h1>
-    themes
+    Examples posts
   </h1>
 </header>
 
-<article class="post-entry tag-entry"> 
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Creating a New Theme
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I’ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won’t cover using CSS to style your theme.
+We’ll start with creating a new site with a very basic template....</p>
+  </div>
+  <footer class="entry-footer"><span title='2014-09-28 02:13:50 +0000 UTC'>September 28, 2014</span>&nbsp;·&nbsp;Michael Henderson</footer>
+  <a class="entry-link" aria-label="post link to Creating a New Theme" href="https://raworlando.github.io/forgetmeblue/examples-posts/creating-a-new-theme/"></a>
+</article>
+
+<article class="post-entry"> 
   <header class="entry-header">
     <h2>(Hu)go Template Primer
     </h2>
@@ -103,6 +131,37 @@ This document is a brief primer on using go templates....</p>
   </div>
   <footer class="entry-footer"><span title='2014-04-02 02:13:50 +0000 UTC'>April 2, 2014</span>&nbsp;·&nbsp;Michael Henderson</footer>
   <a class="entry-link" aria-label="post link to (Hu)go Template Primer" href="https://raworlando.github.io/forgetmeblue/examples-posts/goisforlovers/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Migrating from Jekyll
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &lt;root&gt;/ ▾ images/ logo.png should become
+▾ &lt;root&gt;/ ▾ static/ ▾ images/ logo.png Additionally, you’ll want any files that should reside at the root (such as CNAME) to be moved to static....</p>
+  </div>
+  <footer class="entry-footer"><span title='2014-04-02 02:13:50 +0000 UTC'>April 2, 2014</span>&nbsp;·&nbsp;Michael Henderson</footer>
+  <a class="entry-link" aria-label="post link to Migrating from Jekyll" href="https://raworlando.github.io/forgetmeblue/examples-posts/migrate-from-jekyll/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Getting Started with Hugo
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:...</p>
+  </div>
+  <footer class="entry-footer"><span title='2014-04-02 00:00:00 +0000 UTC'>April 2, 2014</span></footer>
+  <a class="entry-link" aria-label="post link to Getting Started with Hugo" href="https://raworlando.github.io/forgetmeblue/examples-posts/hugoisforlovers/"></a>
 </article>
     </main>
     

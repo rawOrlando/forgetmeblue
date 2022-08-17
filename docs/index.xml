@@ -45,37 +45,37 @@
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://raworlando.github.io/forgetmeblue/post/creating-a-new-theme/</link>
+      <link>https://raworlando.github.io/forgetmeblue/examples-posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://raworlando.github.io/forgetmeblue/post/creating-a-new-theme/</guid>
+      <guid>https://raworlando.github.io/forgetmeblue/examples-posts/creating-a-new-theme/</guid>
       <description>Description of my awesome project.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://raworlando.github.io/forgetmeblue/post/goisforlovers/</link>
+      <link>https://raworlando.github.io/forgetmeblue/examples-posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://raworlando.github.io/forgetmeblue/post/goisforlovers/</guid>
+      <guid>https://raworlando.github.io/forgetmeblue/examples-posts/goisforlovers/</guid>
       <description>(Hu)go Template Primer description.</description>
     </item>
     
     <item>
       <title>Migrating from Jekyll</title>
-      <link>https://raworlando.github.io/forgetmeblue/post/migrate-from-jekyll/</link>
+      <link>https://raworlando.github.io/forgetmeblue/examples-posts/migrate-from-jekyll/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://raworlando.github.io/forgetmeblue/post/migrate-from-jekyll/</guid>
+      <guid>https://raworlando.github.io/forgetmeblue/examples-posts/migrate-from-jekyll/</guid>
       <description>Migrating from Jekyll description.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://raworlando.github.io/forgetmeblue/post/hugoisforlovers/</link>
+      <link>https://raworlando.github.io/forgetmeblue/examples-posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://raworlando.github.io/forgetmeblue/post/hugoisforlovers/</guid>
+      <guid>https://raworlando.github.io/forgetmeblue/examples-posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
